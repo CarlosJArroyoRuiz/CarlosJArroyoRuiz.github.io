@@ -1,7 +1,10 @@
 ---
-title: "About me"
+title: "Contact Information"
 ---
 
-## Please contact me via any of the following for questions about making a website
+## Please contact me via any of the following emails for any additional questions.
 
-travis.courtney@upr.edu
+carlos.arroyo7@upr.edu
+
+arroyocarlosj@gmail.com
+

@@ -1,15 +1,17 @@
 ---
-title: "RMarkdown Website Tutorial"
+title: ""
 ---
 
-This is a tutorial for creating a website for free using RMarkdown and Github.
+## Greetings and Salutations! My name is Carlos J. Arroyo Ruiz.
 
-## This is a header for my webpage
-
-```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("GOPR1166.JPG")
+```{r, out.width="60%", echo=FALSE}
+knitr::include_graphics("Queen Conch (Credit Jennifer Doerr NOAA SEFSC Galveston).JPG")
 ```
 
-This a website template for creating personal webpages for academic sciences to publicly share our code and science.
+Juvenile Queen Conch (Credit: Jennifer Doerr, NOAA SEFSC Galveston)
+
+
+
+I'm currently a gradute student in the Marine Sciences Department at the University of Puerto Rico Mayaguez campus. Also an Rstudio newbie.
 
 [Read more about me...](about.html)
