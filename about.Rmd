@@ -6,5 +6,5 @@ title: "A little bit about me..."
 knitr::include_graphics("Me.JPG")
 ```
 
-I graduated with Bachelor's Degree in Industrial Microbiology from Department of Biology in the University of Puerto Rico, Mayaguez campus. As of 2021, I'm currently a graduate student in the Marine Sciences Department at the previously mentioned institution, working with Dr. Juan Cruz Motta on a project regarding the statistical analysis of Aliger gigas (Queen Conch) in La Parguera area.
+I graduated with Bachelor's Degree in Industrial Microbiology from Department of Biology in the University of Puerto Rico, Mayaguez campus. As of 2021, I'm currently a graduate student in the Marine Sciences Department at the University of Puerto Rico, Mayaguez campus, working with Dr. Juan Cruz Motta on a project regarding the statistical analysis of *Aliger gigas* (Queen Conch) in La Parguera area.
 
