@@ -12,6 +12,6 @@ Juvenile Queen Conch (Credit: Jennifer Doerr, NOAA SEFSC Galveston)
 
 
 
-I'm currently a gradute student in the Marine Sciences Department at the University of Puerto Rico Mayaguez campus. Also an Rstudio newbie.
+I'm currently a gradute student in the Marine Sciences Department at the University of Puerto Rico, Mayaguez campus. Also an Rstudio newbie.
 
 [Read more about me...](about.html)

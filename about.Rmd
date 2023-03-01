@@ -2,7 +2,7 @@
 title: "A little bit about me..."
 ---
 
-```{r, out.width="25%", echo=FALSE}
+```{r, out.width="20%", echo=FALSE}
 knitr::include_graphics("Me.JPG")
 ```
 
