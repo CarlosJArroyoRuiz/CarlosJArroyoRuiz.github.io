@@ -7,4 +7,3 @@ title: "Contact Information"
 carlos.arroyo7@upr.edu
 
 arroyocarlosj@gmail.com
-
